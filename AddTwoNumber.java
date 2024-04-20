@@ -11,6 +11,5 @@ public class AddTwoNumber {
         int b = scanner.nextInt();
         int c = a + b;
         System.out.println("print the c value :"+c);
-
     }
 }
